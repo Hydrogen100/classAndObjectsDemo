@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=classAndObjectsDemo()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ classAndObjectsDemo\n
+comment1.params=
+comment1.target=void\ jump()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=newHeight
+comment2.target=void\ setHeight(int)
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=newName
+comment5.target=void\ newIdentity(java.lang.String)
+numComments=6
